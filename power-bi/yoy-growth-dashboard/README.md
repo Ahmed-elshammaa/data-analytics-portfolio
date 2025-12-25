@@ -1,3 +1,5 @@
+![Dashboard Overview](overview.png)
+
 # YoY Sales Growth & Performance Dashboard (Power BI)
 
 This project is an interactive Power BI dashboard built to analyze
@@ -31,7 +33,8 @@ to identify growth drivers, weak areas, and seasonality patterns.
 - Interactive filters & slicers
 
 ## Files
-- Dashboard file: (to be uploaded)
-- Dataset: (to be uploaded)
+- yoy-sales-growth-dashboard.pbix → Power BI dashboard
+- overview.png → Dashboard preview
+
 
 This project demonstrates how performance and growth analysis can be implemented in Power BI using time-based metrics and dynamic filtering.
