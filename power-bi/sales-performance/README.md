@@ -1,3 +1,4 @@
+https://github.com/Ahmed-elshammaa/data-analytics-portfolio/blob/main/power-bi/sales-performance/overview.png
 # Sales Performance Dashboard
 
 This project analyzes sales performance using a Power BI dashboard.
